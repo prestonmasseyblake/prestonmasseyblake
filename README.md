@@ -1,4 +1,4 @@
-
+https://docs.google.com/document/d/1BXg5B9aKHOtGQU2GeE7wC7UG_G58wI5jgeeGzOtTNdQ/edit
   
 <p align="left">
     <img width="200" src="assets/3dgif.gif">
